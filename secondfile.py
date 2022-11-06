@@ -1,0 +1,1 @@
+print("Sadiat is a good girl")
